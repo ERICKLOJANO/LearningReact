@@ -8,3 +8,15 @@ h1{
   color: blue;
 
 }
+
+.personComponent {
+  font-size: 15px;
+  color: gray;
+  text-align: center;
+}
+
+.nameDisplay {
+  font-size: 5px;
+  font-weight: bold;
+  color: aqua;
+}
